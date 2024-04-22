@@ -1,0 +1,12 @@
+{
+  "name": "calculator_npm_publish",
+  "version": "1.0.0 cjsOnly",
+  "description": "TGC 6회차 - NPM Publish CJS 실습",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
